@@ -1,4 +1,6 @@
 .cosmetics img {
     width: 150px;
     height: 150px;
+    margin-bottom: 1em;
+    margin-top: 1em;
 }
